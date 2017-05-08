@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<atlas-document id="io1817707sl281318622" required-dtd-version="04.24.00">
+    <wkdoc:document xmlns:wkdoc="http://www.wkpublisher.com/xml-namespaces/document"
+                    xmlns:wkfinder="http://www.wkpublisher.com/xml-namespaces/finder"
+                    xmlns:wkgraphic="http://www.wkpublisher.com/xml-namespaces/graphic"
+                    xmlns:wkrul="http://www.wkpublisher.com/xml-namespaces/ruling"
+                    xmlns:wkpractice-aid="http://www.wkpublisher.com/xml-namespaces/practice-aid"
+                    xmlns:wklink="http://www.wkpublisher.com/xml-namespaces/links"
+                    xmlns:wkpend-leg="http://www.wkpublisher.com/xml-namespaces/pending-legislation"
+                    xmlns:wkauth-rule-proc="http://www.wkpublisher.com/xml-namespaces/auth-rule-proc"
+                    xmlns:wkcase-law="http://www.wkpublisher.com/xml-namespaces/case-law"
+                    xmlns:wkcom-rep="http://www.wkpublisher.com/xml-namespaces/committee-report"
+                    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+                    xmlns:wkagency-pub="http://www.wkpublisher.com/xml-namespaces/agency-pub"
+                    xmlns:wkchange-track="http://www.wkpublisher.com/xml-namespaces/change-tracking"
+                    xmlns:wkmedia="http://www.wkpublisher.com/xml-namespaces/media"
+                    xmlns:wkattachment="http://www.wkpublisher.com/xml-namespaces/attachment"
+                    xmlns:wkform="http://www.wkpublisher.com/xml-namespaces/form"
+                    xmlns:wknews="http://www.wkpublisher.com/xml-namespaces/news"
+                    xmlns:wkreg="http://www.wkpublisher.com/xml-namespaces/reg"
+                    xmlns:wklaw="http://www.wkpublisher.com/xml-namespaces/law"
+                    xmlns:wkext-meta="http://www.wkpublisher.com/xml-namespaces/extensible-metadata"
+                    xmlns:wkinternational="http://www.wkpublisher.com/xml-namespaces/international"
+                    xmlns:wktable="http://www.wkpublisher.com/xml-namespaces/table"
+                    xmlns:wkperiodical="http://www.wkpublisher.com/xml-namespaces/periodical" id="io1817707sl281318622"
+                    required-dtd-version="04.17.01" searchable="yes">
+        <heading flow-type="paragraph">FC of T v ADMINISTRATIVE APPEALS TRIBUNAL &amp; ORS</heading>
+        <para>
+            <attachment src="atc_2011_ATC_20-248.pdf" alt="Court Ready PDF" attachment-format="pdf">
+                <wkattachment:metadata>
+                    <description>Court Ready PDF</description>
+                </wkattachment:metadata>
+                <attach file-name="atc_2011_ATC_20-248.pdf"/>
+            </attachment>
+        </para>
+        <xhtml:table cellspacing="0" cellpadding="0" width="100%" border="1">
+            <xhtml:colgroup>
+                <xhtml:col span="1"></xhtml:col>
+            </xhtml:colgroup>
+            <xhtml:tr>
+                <xhtml:td>
+                    <note type="cch-comment">
+                        <h1></h1>
+                        <para></para>
+                        <para><bold>ATO Link and CCH links:</bold>  <wlink id="atcd17e305360"
+                                                                           target-url="http://law.ato.gov.au/atolaw/view.htm?DocID=LIT/ICD/VID738of2010/00001">
+                            Impact Statement
+                        </wlink> (released 17/6/11).
+                            <anchor id="io2013528sl353275639"></anchor>
+                            <cite-ref handle="ATC_HANDLE" id="io2013528sl353275639" search-value="io1472445sl210820328">
+                                FITR ¶269-480</cite-ref>.
+                        </para>
+                        <para></para>
+                    </note>
+                </xhtml:td>
+            </xhtml:tr>
+        </xhtml:table>
+        <wkdoc:level id="io1816541sl281142983UUjudgmentUdetailsUU1" level-type="flush">
+            <para align="left"></para>
+            <para align="left">2011 ATC ¶20-248</para>
+            <para align="left"></para>
+            <para align="left">Media neutral citation: [2011] FCAFC 37</para>
+            <para align="left"></para>
+            <para align="left">
+                <bold>Full Federal Court, Melbourne,</bold>
+            </para>
+            <para align="left"></para>
+            <para align="left">
+                <bold>17 March 2011</bold>
+            </para>
+            <para align="left"></para>
+            <para align="left">
+                <italic>Superannuation — Excess contributions tax — Contributions caps — Commissioner’s discretion to
+                    disregard contributions in relation to a financial year — Discretion to disregard or reallocate
+                    excess non-concessional contributions to a different income year in limited special circumstances —
+                    Whether AAT had jurisdiction to review objection decision — Income Tax Assessment Act 1997, s
+                    292-465 — Taxation Administration Act 1953, Pt IVC.
+                </italic>
+            </para>
+            <para align="left"></para>
+        </wkdoc:level>
+        <para align="left"></para>
+        <wkdoc:level id="atcd17e305500" level-type="flush">
+            <para align="left"></para>
+            <para align="left">
+                <bold>Keane CJ &amp; Gordon J:</bold>
+            </para>
+            <para align="left"></para>
+            <h1 flow-type="paragraph">
+                <bold>Introduction</bold>
+            </h1>
+            <h1 flow-type="paragraph">
+                <bold>FACTS</bold>
+            </h1>
+            <block-quote add-quote-marks="no">
+                <para></para>
+                <para>“One set of generic, modern language provisions governing taxation objection, review and appeal
+                    procedures will be included in the [TAA]. … These changes will apply to all taxation decisions made
+                    on or after 1 March 1992 (the date fixed for proclamation), including decisions in relation to
+                    assessments made before that date …
+                </para>
+                <para></para>
+                <para>…”</para>
+                <para></para>
+            </block-quote>
+            <block-quote add-quote-marks="no">
+                <unordered-list token="none">
+                    <list-item>
+                        <para>“(1) The Commissioner must make an assessment (an <italic>excess contributions tax
+                            assessment</italic>) of:
+                        </para>
+                        <unordered-list token="none">
+                            <list-item>
+                                <para>(a) if a person has *excess concessional contributions for a *financial year — the
+                                    amount of the excess concessional contributions; and
+                                </para>
+                            </list-item>
+                            <list-item>
+                                <para>(b) the amount (if any) of *excess concessional contributions tax which the person
+                                    is liable to pay in relation to the financial year.
+                                </para>
+                            </list-item>
+                        </unordered-list>
+                        <para></para>
+                    </list-item>
+                    <list-item>
+                        <para>(2) The Commissioner must make an assessment (also an <italic>excess contributions tax
+                            assessment</italic>) of:
+                        </para>
+                        <unordered-list token="none">
+                            <list-item>
+                                <para>(a) if a person has *excess non-concessional contributions for a financial year –
+                                    the amount of the excess non-concessional contributions; and
+                                </para>
+                            </list-item>
+                            <list-item>
+                                <para>(b) the amount (if any) of *excess non-concessional contributions tax which the
+                                    person is liable to pay in relation to the financial year.
+                                </para>
+                            </list-item>
+                        </unordered-list>
+                        <para></para>
+                    </list-item>
+                    <list-item>
+                        <para>(3) The Commissioner must give the person notice in writing of an *excess contributions
+                            tax assessment as soon as practicable after making the assessment.
+                        </para>
+                    </list-item>
+                    <list-item>
+                        <para>(4) The notice may be included in a notice of any other assessment under this Act
+                            (including an assessment under this section).
+                        </para>
+                    </list-item>
+                </unordered-list>
+                <para></para>
+            </block-quote>
+        </wkdoc:level>
+    </wkdoc:document>
+</atlas-document>
